@@ -1,0 +1,11 @@
+name: pm2021
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8.5
+  - notebook=6.4.3
+  - numpy=1.20.3
+  - matplotlib=3.4.2
+  - networkx=2.6.2
+  - jupyter=1.0.0
